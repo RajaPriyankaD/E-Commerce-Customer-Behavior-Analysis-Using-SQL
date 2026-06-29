@@ -149,4 +149,4 @@ Used COMMIT and ROLLBACK mechanisms for safe order creation.
 ## Author
 
 Rajapriyanka D
-Aspiring Data Analyst | SQL | Power BI | Python
+ Data Analyst | SQL | Power BI | Python
